@@ -1,0 +1,10 @@
+pandas
+numpy
+transformers[torch]
+evaluate
+accelerate
+tqdm
+datasets
+peft
+torch
+llm-tools-5==0.0.7
