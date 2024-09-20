@@ -28,7 +28,7 @@ trainer = finetune_trainer(
         learning_rate=1e-5,
         fp16=True,
         push_to_hub=True,
-        hub_token="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"
+        # hub_token="pass_your_own_token"
     ),
     model_output_dir="my_pretrained_model"
 )
